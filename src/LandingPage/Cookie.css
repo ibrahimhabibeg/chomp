@@ -1,0 +1,9 @@
+.cookie{
+    height: 200px;
+    width: auto;
+    margin: 0 15px;
+    transition: 0.3s;
+}
+.cookie:hover{
+    transform: scale(0.9);
+}

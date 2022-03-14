@@ -91,3 +91,16 @@
     background-color: rgb(71, 26, 0);
     color: white;
 }
+
+.theGame{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    margin: 15px auto;
+}
+
