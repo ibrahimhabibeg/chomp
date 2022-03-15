@@ -23,6 +23,7 @@
     min-width: 200px;
     margin-left: 50px;
     margin-right: 50px;
+    margin-bottom: 10px;
     background-image: linear-gradient(to right, rgba(209, 124, 64,0.9), rgba(209, 124, 64,1));
     box-shadow: 5px 3px 5px black;
     font-size: 40px;
@@ -97,10 +98,12 @@
     flex-direction: column;
     width: 50%;
     margin: auto;
+    transition: 1s;
 }
 .row{
     display: flex;
     flex-direction: row;
     margin: 15px auto;
+    justify-content: center;
 }
 
